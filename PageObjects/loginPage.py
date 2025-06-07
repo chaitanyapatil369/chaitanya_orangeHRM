@@ -7,7 +7,7 @@ class LoginPage:
     TXT_UserName_Xpath = (By.XPATH, "//input[@placeholder='Username']")
     TXT_Password_Xpath = (By.XPATH, "//input[@placeholder='Password']")
     BTN_Login_Xpath = (By.XPATH, "//button[@type='submit']")
-    Text_Dashbord_Xpath = (By.XPATH, "//h6[contains(.,'Dashboard')]")
+    Text_Dashboard_Xpath = (By.XPATH, "//h6[contains(.,'Dashboard')]")
 
     def __init__(self, driver):
         self.driver = driver
@@ -26,7 +26,7 @@ class LoginPage:
 
     def loginStatus(self):
         time.sleep(2)
-        if self.driver.find_element(*LoginPage.Text_Dashbord_Xpath).text == "Dashboard":
+        if self.driver.find_element(*LoginPage.Text_Dashboard_Xpath).text == "Dashboard":
             login_status = "pass"
         else:
             login_status = "fail"
