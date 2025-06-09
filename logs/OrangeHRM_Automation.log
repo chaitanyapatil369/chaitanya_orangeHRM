@@ -1,0 +1,164 @@
+2025-06-09 00:13:12,635 : INFO :  Test_login : test_title_001: getting url
+2025-06-09 00:13:16,794 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 00:13:16,795 : INFO :  Test_login : test_title_001: test_title_001 Failed
+2025-06-09 00:13:28,525 : INFO :  Test_login : test_loginWithValidCredentials_002: getting url
+2025-06-09 00:13:28,525 : INFO :  Test_login : test_loginWithValidCredentials_002: entering username
+2025-06-09 00:13:30,713 : INFO :  Test_login : test_loginWithValidCredentials_002: entering password
+2025-06-09 00:13:30,947 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 00:13:31,067 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 00:13:33,233 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 01:29:36,550 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 01:29:41,033 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 01:29:41,034 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 01:29:51,009 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 01:29:51,009 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 01:39:37,053 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 01:39:37,056 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 01:39:39,316 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 01:39:39,593 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 01:39:41,167 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 01:44:03,468 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 01:44:03,469 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 01:44:05,838 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 01:44:06,124 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 01:44:06,261 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 01:45:15,941 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 01:45:15,941 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 01:45:18,311 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 01:45:18,543 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 01:45:20,096 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 01:45:24,176 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 09:48:42,479 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 09:48:42,480 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 09:48:44,656 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 09:48:44,821 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 09:48:46,512 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 10:51:30,086 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 10:51:33,734 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 10:51:33,735 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 10:51:40,386 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 10:51:40,386 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 10:51:42,630 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 10:51:42,815 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 10:51:42,941 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 10:51:46,980 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 14:03:42,326 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:03:47,971 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 14:03:47,971 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 14:03:51,841 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:03:51,841 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:05:55,908 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:05:55,908 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:05:58,073 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 14:05:58,323 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 14:05:59,620 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 14:05:59,637 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Failed
+2025-06-09 14:06:55,675 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:06:55,678 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:06:57,867 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 14:06:58,042 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 14:06:58,124 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 14:07:01,145 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 14:07:50,470 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:07:50,471 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:07:52,668 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 14:07:52,812 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 14:07:54,213 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 14:07:57,245 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 14:10:32,898 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:10:32,898 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:10:35,075 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin1234
+2025-06-09 14:10:35,223 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 14:10:35,308 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 14:13:16,614 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:13:16,614 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:13:18,964 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 14:13:19,168 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 14:13:20,794 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 14:13:23,823 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 14:14:00,732 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 14:14:00,732 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 14:14:02,904 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin1234
+2025-06-09 14:14:03,061 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 14:14:03,157 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 14:14:06,193 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Failed
+2025-06-09 16:10:25,992 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:10:32,695 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 16:10:32,695 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 16:10:44,776 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:10:44,776 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:10:46,962 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:10:47,012 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:10:48,532 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:10:51,546 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 16:12:48,798 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:12:53,542 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 16:12:53,542 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 16:13:07,910 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:13:07,911 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:13:10,065 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:13:10,107 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:13:12,155 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:13:15,168 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 16:24:19,199 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:24:19,200 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:24:21,358 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:24:21,514 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:24:23,223 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:24:26,242 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 16:24:44,212 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:24:49,250 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 16:24:49,250 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 16:24:59,046 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:24:59,046 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:27:27,324 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:27:31,136 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 16:27:31,136 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 16:27:37,625 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:27:37,625 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:27:39,957 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:27:40,197 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:27:40,320 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:28:06,097 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:28:06,097 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:28:06,792 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:28:07,034 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:28:07,125 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:28:10,203 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 16:29:55,324 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:29:55,324 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:29:59,253 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:29:59,448 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:29:59,552 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:30:04,042 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 16:31:05,778 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:31:05,778 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:31:06,582 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:31:06,760 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:31:10,380 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:31:11,482 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 16:32:30,013 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:32:30,013 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:32:30,743 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 16:32:30,982 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:32:32,514 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 16:33:49,749 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 16:33:49,750 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 16:33:52,537 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin1234
+2025-06-09 16:33:52,710 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 16:33:54,204 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 18:51:37,084 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 18:51:37,085 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 18:51:37,766 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 18:51:37,970 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 18:51:39,421 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 18:51:39,978 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
+2025-06-09 18:52:24,250 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 18:52:28,494 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-09 18:52:28,494 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-09 18:52:42,272 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-09 18:52:42,272 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
+2025-06-09 18:52:46,129 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
+2025-06-09 18:52:46,295 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
+2025-06-09 18:52:46,388 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
+2025-06-09 18:52:48,363 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
