@@ -6,6 +6,7 @@ from selenium import webdriver
 def setup(browser):
     if browser == "chrome":
         driver = webdriver.Chrome()
+        driver.maximize_window()
     elif browser == "firefox":
         driver = webdriver.Firefox()
     else:

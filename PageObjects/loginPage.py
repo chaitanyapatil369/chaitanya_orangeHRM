@@ -31,7 +31,7 @@ class LoginPage:
         self.driver.find_element(*LoginPage.BTN_Login_Xpath).click()
 
     def loginStatus(self):
-        self.wait.until(ec.presence_of_element_located(self.Text_Dashboard_Xpath))
+        time.sleep(3)
         try:
             self.driver.find_element(*LoginPage.Text_Dashboard_Xpath)
             login_status = "pass"
