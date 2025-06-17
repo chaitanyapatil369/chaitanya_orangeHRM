@@ -1,147 +1,188 @@
-2025-06-10 10:43:09,970 : INFO :  Test_DDT : test_datadrivenTest_003:  test_datadrivenTest_003 --> started
-2025-06-10 10:43:09,970 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:43:16,027 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:43:16,720 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:43:16,910 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:43:17,000 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:43:20,024 : INFO :  Test_DDT : test_datadrivenTest_003: login status is pass
-2025-06-10 10:43:20,026 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:43:20,086 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:43:23,349 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:43:23,972 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:43:24,103 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:43:25,501 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:43:28,531 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:43:28,532 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:43:28,583 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:46:59,512 : INFO :  Test_DDT : test_datadrivenTest_003:  test_datadrivenTest_003 --> started
-2025-06-10 10:46:59,512 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:47:00,670 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:47:05,533 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:47:05,756 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:47:05,839 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:47:08,848 : INFO :  Test_DDT : test_datadrivenTest_003: login status is pass
-2025-06-10 10:47:08,848 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:47:08,899 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:47:11,972 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:47:12,608 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:47:12,714 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:47:12,786 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:47:15,798 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:47:15,798 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:47:15,829 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:47:19,752 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:47:23,045 : INFO :  Test_login : test_title_001: checking PageTitle
-2025-06-10 10:47:23,045 : INFO :  Test_login : test_title_001: test_title_001 Passed
-2025-06-10 10:47:28,166 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:47:28,166 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
-2025-06-10 10:47:28,840 : INFO :  Test_login : test_loginWithValidCredentials_002: entering passwordadmin123
-2025-06-10 10:47:29,007 : INFO :  Test_login : test_loginWithValidCredentials_002: clicking on login button
-2025-06-10 10:47:30,283 : INFO :  Test_login : test_loginWithValidCredentials_002: checking login status
-2025-06-10 10:47:33,299 : INFO :  Test_login : test_loginWithValidCredentials_002: test_loginWithValidCredentials_002 Passed
-2025-06-10 10:49:55,263 : INFO :  Test_DDT : test_datadrivenTest_003:  test_datadrivenTest_003 --> started
-2025-06-10 10:49:55,277 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:49:59,843 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:50:02,141 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:50:02,310 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:50:02,392 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:50:05,412 : INFO :  Test_DDT : test_datadrivenTest_003: login status is pass
-2025-06-10 10:50:05,412 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:50:05,469 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:50:07,471 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:50:08,441 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:56:49,502 : INFO :  Test_DDT : test_datadrivenTest_003:  test_datadrivenTest_003 --> started
-2025-06-10 10:56:49,503 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:56:50,533 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:56:53,954 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:56:54,136 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:56:54,211 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:56:57,258 : INFO :  Test_DDT : test_datadrivenTest_003: login status is pass
-2025-06-10 10:56:57,258 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:56:57,322 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:56:58,309 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:56:58,951 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:56:59,074 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:56:59,145 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:57:02,185 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:57:02,186 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:57:02,250 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:57:02,279 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:57:02,391 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin1234
-2025-06-10 10:57:02,478 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:57:02,537 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:57:05,549 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:57:05,549 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:57:05,613 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:57:05,650 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:57:05,828 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin1234
-2025-06-10 10:57:06,169 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:57:06,264 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:57:09,276 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:57:09,276 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:57:09,315 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:58:21,766 : INFO :  Test_DDT : test_datadrivenTest_003:  test_datadrivenTest_003 --> started
-2025-06-10 10:58:21,766 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:58:25,464 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:58:26,137 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:58:26,296 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:58:27,691 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:58:30,698 : INFO :  Test_DDT : test_datadrivenTest_003: login status is pass
-2025-06-10 10:58:30,698 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:58:30,745 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:58:31,700 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:58:32,350 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 10:58:32,477 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:58:32,544 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:58:35,583 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:58:35,583 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:58:35,649 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:58:35,665 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 10:58:35,791 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin1234
-2025-06-10 10:58:35,915 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:58:35,989 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:58:38,996 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:58:38,996 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:58:39,043 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:58:39,091 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 10:58:39,266 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin1234
-2025-06-10 10:58:39,456 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 10:58:39,532 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 10:58:42,542 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 10:58:42,542 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 10:58:42,597 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 10:58:45,844 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:58:49,926 : INFO :  Test_login : test_title_001: checking PageTitle
-2025-06-10 10:58:49,926 : INFO :  Test_login : test_title_001: test_title_001 Passed
-2025-06-10 10:58:53,399 : INFO :  Test_login : test_loginWithValidCredentials_002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 10:58:53,399 : INFO :  Test_login : test_loginWithValidCredentials_002: entering usernameAdmin
-2025-06-10 11:06:39,614 : INFO :  Test_DDT : test_datadrivenTest_003:  test_datadrivenTest_003 --> started
-2025-06-10 11:06:39,615 : INFO :  Test_DDT : test_datadrivenTest_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2025-06-10 11:06:44,126 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 11:06:46,358 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 11:06:46,488 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 11:06:46,583 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 11:06:49,614 : INFO :  Test_DDT : test_datadrivenTest_003: login status is pass
-2025-06-10 11:06:49,615 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 11:06:49,654 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 11:06:50,656 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 11:06:51,287 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin123
-2025-06-10 11:06:51,420 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 11:06:51,527 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 11:06:54,560 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 11:06:54,561 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 11:06:54,593 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 11:06:54,613 : INFO :  Test_DDT : test_datadrivenTest_003: entering username admin
-2025-06-10 11:06:54,730 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin1234
-2025-06-10 11:06:54,855 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 11:06:54,931 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 11:06:57,943 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 11:06:57,943 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 11:06:57,991 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
-2025-06-10 11:06:58,103 : INFO :  Test_DDT : test_datadrivenTest_003: entering username adminx
-2025-06-10 11:06:58,250 : INFO :  Test_DDT : test_datadrivenTest_003: entering password admin1234
-2025-06-10 11:06:58,344 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on login button
-2025-06-10 11:06:58,427 : INFO :  Test_DDT : test_datadrivenTest_003: checking login status
-2025-06-10 11:07:01,441 : INFO :  Test_DDT : test_datadrivenTest_003: login status is fail
-2025-06-10 11:07:01,442 : INFO :  Test_DDT : test_datadrivenTest_003: writing actual_result in exel file
-2025-06-10 11:07:01,485 : INFO :  Test_DDT : test_datadrivenTest_003: clicking on logout 
+2025-06-15 10:12:40,675 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: get urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:12:41,620 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter usernameAdmin
+2025-06-15 10:12:41,717 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter passwordadmin123
+2025-06-15 10:12:43,147 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click on login button
+2025-06-15 10:12:49,517 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click PIM
+2025-06-15 10:12:55,217 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: Click AddButton
+2025-06-15 10:12:57,357 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname chaitanya
+2025-06-15 10:12:57,395 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname jitendra
+2025-06-15 10:12:57,430 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname Patil
+2025-06-15 10:12:57,653 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:13:09,243 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname poonam
+2025-06-15 10:13:09,272 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname m
+2025-06-15 10:13:09,315 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname B
+2025-06-15 10:13:09,543 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:13:21,039 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname akshay
+2025-06-15 10:13:21,058 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname V
+2025-06-15 10:13:21,102 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname mude
+2025-06-15 10:13:21,340 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:13:32,878 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname test 
+2025-06-15 10:13:32,907 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname test
+2025-06-15 10:13:32,947 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname test
+2025-06-15 10:13:33,172 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:13:43,668 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: test_AddEmployeeDDT_004 pass
+2025-06-15 10:13:45,227 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click logout
+2025-06-15 10:13:54,287 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:13:58,928 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-15 10:13:58,928 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-15 10:14:12,017 : INFO :  Test_login : test_login002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:14:12,017 : INFO :  Test_login : test_login002: entering usernameAdmin
+2025-06-15 10:14:12,597 : INFO :  Test_login : test_login002: entering passwordadmin123
+2025-06-15 10:14:12,643 : INFO :  Test_login : test_login002: clicking on login button
+2025-06-15 10:14:14,548 : INFO :  Test_login : test_login002: checking login status
+2025-06-15 10:14:17,559 : INFO :  Test_login : test_login002: clicking on logout
+2025-06-15 10:14:18,891 : INFO :  Test_login : test_login002: test_loginWithValidCredentials_002 Passed
+2025-06-15 10:14:31,877 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:14:31,877 : INFO :  Test_login_params : test_loginParams_003: entering username admin
+2025-06-15 10:14:32,448 : INFO :  Test_login_params : test_loginParams_003: entering password admin123
+2025-06-15 10:14:32,487 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:14:34,750 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:14:37,788 : INFO :  Test_login_params : test_loginParams_003: login successful
+2025-06-15 10:14:37,788 : INFO :  Test_login_params : test_loginParams_003: clicking on logout
+2025-06-15 10:14:39,020 : INFO :  Test_login_params : test_loginParams_003: test_loginParams_003 Passed
+2025-06-15 10:14:51,928 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:14:51,928 : INFO :  Test_login_params : test_loginParams_003: entering username adminx
+2025-06-15 10:14:52,512 : INFO :  Test_login_params : test_loginParams_003: entering password admin123
+2025-06-15 10:14:52,549 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:14:55,367 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:14:58,368 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 10:15:11,698 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:15:11,698 : INFO :  Test_login_params : test_loginParams_003: entering username admin
+2025-06-15 10:15:12,803 : INFO :  Test_login_params : test_loginParams_003: entering password admin1234
+2025-06-15 10:15:12,847 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:15:15,661 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:15:18,688 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 10:15:31,589 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:15:31,589 : INFO :  Test_login_params : test_loginParams_003: entering username adminsd
+2025-06-15 10:15:32,167 : INFO :  Test_login_params : test_loginParams_003: entering password admin1234
+2025-06-15 10:15:32,227 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:15:34,817 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:15:37,828 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 10:46:08,221 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: get urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:46:08,965 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter usernameAdmin
+2025-06-15 10:46:09,195 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter passwordadmin123
+2025-06-15 10:46:09,298 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click on login button
+2025-06-15 10:46:15,220 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click PIM
+2025-06-15 10:46:20,801 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: Click AddButton
+2025-06-15 10:46:22,995 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname chaitanya
+2025-06-15 10:46:23,109 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname jitendra
+2025-06-15 10:46:23,195 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname Patil
+2025-06-15 10:46:23,275 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:46:34,627 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname poonam
+2025-06-15 10:46:34,711 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname m
+2025-06-15 10:46:34,785 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname B
+2025-06-15 10:46:34,854 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:46:48,285 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname akshay
+2025-06-15 10:46:48,355 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname V
+2025-06-15 10:46:48,435 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname mude
+2025-06-15 10:46:48,509 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:47:01,955 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname test 
+2025-06-15 10:47:02,045 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname test
+2025-06-15 10:47:02,145 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname test
+2025-06-15 10:47:02,238 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 10:47:13,555 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: test_AddEmployeeDDT_004 fail
+2025-06-15 10:47:14,695 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click logout
+2025-06-15 10:47:17,249 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:47:20,223 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-15 10:47:20,223 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-15 10:47:26,258 : INFO :  Test_login : test_login002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:47:26,259 : INFO :  Test_login : test_login002: entering usernameAdmin
+2025-06-15 10:47:26,964 : INFO :  Test_login : test_login002: entering passwordadmin123
+2025-06-15 10:47:27,109 : INFO :  Test_login : test_login002: clicking on login button
+2025-06-15 10:47:27,229 : INFO :  Test_login : test_login002: checking login status
+2025-06-15 10:47:30,265 : INFO :  Test_login : test_login002: clicking on logout
+2025-06-15 10:47:31,276 : INFO :  Test_login : test_login002: test_loginWithValidCredentials_002 Passed
+2025-06-15 10:47:37,381 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:47:37,381 : INFO :  Test_login_params : test_loginParams_003: entering username admin
+2025-06-15 10:47:38,064 : INFO :  Test_login_params : test_loginParams_003: entering password admin123
+2025-06-15 10:47:38,235 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:47:38,351 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:47:41,394 : INFO :  Test_login_params : test_loginParams_003: login successful
+2025-06-15 10:47:41,394 : INFO :  Test_login_params : test_loginParams_003: clicking on logout
+2025-06-15 10:47:42,402 : INFO :  Test_login_params : test_loginParams_003: test_loginParams_003 Passed
+2025-06-15 10:47:48,696 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:47:48,696 : INFO :  Test_login_params : test_loginParams_003: entering username adminx
+2025-06-15 10:47:49,418 : INFO :  Test_login_params : test_loginParams_003: entering password admin123
+2025-06-15 10:47:49,644 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:47:50,649 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:47:53,675 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 10:48:00,310 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:48:00,311 : INFO :  Test_login_params : test_loginParams_003: entering username admin
+2025-06-15 10:48:01,035 : INFO :  Test_login_params : test_loginParams_003: entering password admin1234
+2025-06-15 10:48:01,230 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:48:02,578 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:48:05,614 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 10:48:11,298 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 10:48:11,298 : INFO :  Test_login_params : test_loginParams_003: entering username adminsd
+2025-06-15 10:48:12,571 : INFO :  Test_login_params : test_loginParams_003: entering password admin1234
+2025-06-15 10:48:12,705 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 10:48:12,794 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 10:48:15,840 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 11:39:42,456 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: get urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:39:43,095 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter usernameAdmin
+2025-06-15 11:39:43,134 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter passwordadmin123
+2025-06-15 11:39:46,786 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click on login button
+2025-06-15 11:39:52,845 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click PIM
+2025-06-15 11:39:58,645 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: Click AddButton
+2025-06-15 11:40:00,765 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname chaitanya
+2025-06-15 11:40:00,805 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname jitendra
+2025-06-15 11:40:00,858 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname Patil
+2025-06-15 11:40:01,099 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 11:40:05,885 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: entry pass
+2025-06-15 11:40:10,696 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click Add Employee
+2025-06-15 11:40:12,845 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname poonam
+2025-06-15 11:40:12,865 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname m
+2025-06-15 11:40:12,905 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname B
+2025-06-15 11:40:13,135 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 11:40:17,765 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: entry pass
+2025-06-15 11:40:22,538 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click Add Employee
+2025-06-15 11:40:24,654 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname akshay
+2025-06-15 11:40:24,680 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname V
+2025-06-15 11:40:24,716 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname mude
+2025-06-15 11:40:24,954 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 11:40:29,601 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: entry pass
+2025-06-15 11:40:34,355 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click Add Employee
+2025-06-15 11:40:36,475 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter firstname test 
+2025-06-15 11:40:36,509 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter middletname test
+2025-06-15 11:40:36,545 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: enter lastname test
+2025-06-15 11:40:36,779 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click save Button
+2025-06-15 11:40:41,495 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: entry pass
+2025-06-15 11:40:46,105 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click Add Employee
+2025-06-15 11:40:46,140 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: test_AddEmployeeDDT_004 pass
+2025-06-15 11:40:47,785 : INFO :  Test_AddEmployee_DDT : test_AddEmployeeDDT_004: click logout
+2025-06-15 11:40:56,634 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:41:01,318 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-06-15 11:41:01,318 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-06-15 11:41:13,999 : INFO :  Test_login : test_login002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:41:13,999 : INFO :  Test_login : test_login002: entering usernameAdmin
+2025-06-15 11:41:14,585 : INFO :  Test_login : test_login002: entering passwordadmin123
+2025-06-15 11:41:14,624 : INFO :  Test_login : test_login002: clicking on login button
+2025-06-15 11:41:16,618 : INFO :  Test_login : test_login002: checking login status
+2025-06-15 11:41:19,632 : INFO :  Test_login : test_login002: clicking on logout
+2025-06-15 11:41:20,980 : INFO :  Test_login : test_login002: test_loginWithValidCredentials_002 Passed
+2025-06-15 11:41:33,269 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:41:33,269 : INFO :  Test_login_params : test_loginParams_003: entering username admin
+2025-06-15 11:41:33,854 : INFO :  Test_login_params : test_loginParams_003: entering password admin123
+2025-06-15 11:41:33,894 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 11:41:38,870 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 11:41:41,875 : INFO :  Test_login_params : test_loginParams_003: login successful
+2025-06-15 11:41:41,875 : INFO :  Test_login_params : test_loginParams_003: clicking on logout
+2025-06-15 11:41:43,215 : INFO :  Test_login_params : test_loginParams_003: test_loginParams_003 Passed
+2025-06-15 11:41:57,967 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:41:57,967 : INFO :  Test_login_params : test_loginParams_003: entering username adminx
+2025-06-15 11:41:59,111 : INFO :  Test_login_params : test_loginParams_003: entering password admin123
+2025-06-15 11:41:59,144 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 11:42:02,587 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 11:42:05,597 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 11:42:19,275 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:42:19,275 : INFO :  Test_login_params : test_loginParams_003: entering username admin
+2025-06-15 11:42:19,925 : INFO :  Test_login_params : test_loginParams_003: entering password admin1234
+2025-06-15 11:42:19,960 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 11:42:23,055 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 11:42:26,077 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-06-15 11:42:39,085 : INFO :  Test_login_params : test_loginParams_003: getting url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-15 11:42:39,085 : INFO :  Test_login_params : test_loginParams_003: entering username adminsd
+2025-06-15 11:42:39,725 : INFO :  Test_login_params : test_loginParams_003: entering password admin1234
+2025-06-15 11:42:39,765 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
+2025-06-15 11:42:43,485 : INFO :  Test_login_params : test_loginParams_003: checking login status
+2025-06-15 11:42:46,495 : INFO :  Test_login_params : test_loginParams_003: login failed

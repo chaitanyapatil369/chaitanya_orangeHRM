@@ -24,3 +24,14 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
+
+
+@pytest.fixture(params=[
+    ("admin", "admin123", "pass"),
+    ("adminx", "admin123", "fail"),
+    ("admin", "admin1234", "fail"),
+    ("adminsd", "admin1234", "fail")
+])
+
+def getdataforlogin(request):
+    return request.param

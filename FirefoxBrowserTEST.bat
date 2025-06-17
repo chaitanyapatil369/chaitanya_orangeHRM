@@ -1,0 +1,1 @@
+Pytest -v -s --browser firefox --html=./Reports/FirefoxTesting.html

@@ -1,3 +1,5 @@
+import pytest
+
 from PageObjects.loginPage import LoginPage
 from Utilities.readproperties import ReadConfig
 from Utilities.logger import logGen
@@ -9,6 +11,7 @@ class Test_login:
     password = ReadConfig.get_password()
     log = logGen.loggen()
 
+    # @pytest.mark.skip
     def test_title_001(self, setup):
         self.driver = setup
         self.log.info("getting url" + self.Url)
@@ -23,7 +26,8 @@ class Test_login:
             self.driver.save_screenshot("D:\\Local Disk\\Automation PROJECTS\\chaitanya_orangeHRM\\Screenshots\\test_title_001.png")
             assert False
 
-    def test_loginWithValidCredentials_002(self, setup):
+    # @pytest.mark.skip
+    def test_login002(self, setup):
         self.driver = setup
         self.driver.get(self.Url)
         self.log.info("getting url" + self.Url)
@@ -36,9 +40,10 @@ class Test_login:
         self.lp.clickLoginButton()
         self.log.info("checking login status")
         login = self.lp.loginStatus()
-        if login == "pass":
-            self.log.info("test_loginWithValidCredentials_002 Passed")
+        if login == True:
+            self.log.info("clicking on logout")
             self.lp.clickLogoutButton()
+            self.log.info("test_loginWithValidCredentials_002 Passed")
             assert True
         else:
             self.log.info("test_loginWithValidCredentials_002 Failed")

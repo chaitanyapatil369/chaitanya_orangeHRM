@@ -1,0 +1,1 @@
+Pytest -v -s --browser chrome --html=./Reports/chromeTestReport.html

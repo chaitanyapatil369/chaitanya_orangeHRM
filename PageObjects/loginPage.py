@@ -31,13 +31,12 @@ class LoginPage:
         self.driver.find_element(*LoginPage.BTN_Login_Xpath).click()
 
     def loginStatus(self):
-        time.sleep(3)
         try:
+            time.sleep(3)
             self.driver.find_element(*LoginPage.Text_Dashboard_Xpath)
-            login_status = "pass"
+            return True
         except NoSuchElementException:
-            login_status = "fail"
-        return login_status
+            return False
 
     def clickLogoutButton(self):
         self.driver.find_element(*LoginPage.DRP_account_Xpath).click()
