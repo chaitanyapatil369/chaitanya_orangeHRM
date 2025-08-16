@@ -23,7 +23,7 @@ class Test_login:
             assert True
         else:
             self.log.info("test_title_001 Failed")
-            self.driver.save_screenshot("D:\\Local Disk\\Automation PROJECTS\\chaitanya_orangeHRM\\Screenshots\\test_title_001.png")
+            self.driver.save_screenshot(".\\Screenshots\\test_title_001.png")
             assert False
 
     # @pytest.mark.skip
@@ -47,6 +47,6 @@ class Test_login:
             assert True
         else:
             self.log.info("test_loginWithValidCredentials_002 Failed")
-            self.driver.save_screenshot("D:\\Local Disk\\Automation PROJECTS\\chaitanya_orangeHRM\\Screenshots\\test_loginWithValidCredentials_002.png")
+            self.driver.save_screenshot(".\\Screenshots\\test_loginWithValidCredentials_002.png")
             assert False
 

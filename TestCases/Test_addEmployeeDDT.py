@@ -30,7 +30,7 @@ class Test_AddEmployee_DDT:
         self.driver.implicitly_wait(5)
         self.ae.clickAddButton()
         self.log.info("Click AddButton")
-        self.path = "D:\\Local Disk\\Automation PROJECTS\\chaitanya_orangeHRM\\TestData\\ddt_testdata.xlsx"
+        self.path = ".\\TestData\\ddt_testdata.xlsx"
         self.rows = XLutils.getrRowCount(self.path, "Sheet1")
         status_list = []
         for r in range(2, self.rows+1):
@@ -57,9 +57,7 @@ class Test_AddEmployee_DDT:
                 self.log.info("entry fail")
                 status_list.append("fail")
                 XLutils.writeData(self.path, "Sheet1", r, 5, "fail")
-                self.driver.save_screenshot(
-                    "D:\\Local Disk\\Automation PROJECTS\\"
-                    "chaitanya_orangeHRM\\Screenshots\\test_AddEmployeeDDT_004.png")
+                self.driver.save_screenshot(".\\Screenshots\\test_AddEmployeeDDT_004.png")
         if "fail" not in status_list:
             self.log.info("test_AddEmployeeDDT_004 pass")
             self.lp.clickLogoutButton()

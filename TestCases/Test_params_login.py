@@ -35,7 +35,7 @@ class Test_login_params:
                 self.log.info("login failed")
                 self.log.info("test_loginParams_003 Failed")
                 self.driver.save_screenshot(
-                    "D:\\Local Disk\\Automation PROJECTS\\chaitanya_orangeHRM\\Screenshots\\test_loginParams_003.png")
+                    ".\\Screenshots\\test_loginParams_003.png")
                 assert False
         else:
             if getdataforlogin[2] == "fail":

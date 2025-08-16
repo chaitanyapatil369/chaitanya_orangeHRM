@@ -1,7 +1,7 @@
 from configparser import RawConfigParser
 
 config = RawConfigParser()
-config.read("D:\\Local Disk\\Automation PROJECTS\\chaitanya_orangeHRM\\Configurations\\config.ini")
+config.read("D:\chaitanya_orangeHRM\Configurations\config.ini")
 
 
 class ReadConfig:

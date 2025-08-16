@@ -186,3 +186,11 @@
 2025-06-15 11:42:39,765 : INFO :  Test_login_params : test_loginParams_003: clicking on login button
 2025-06-15 11:42:43,485 : INFO :  Test_login_params : test_loginParams_003: checking login status
 2025-06-15 11:42:46,495 : INFO :  Test_login_params : test_loginParams_003: login failed
+2025-08-15 00:43:39,398 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-08-15 00:44:01,868 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-08-15 00:44:01,868 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-08-15 00:44:15,215 : INFO :  Test_login : test_title_001: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-08-15 00:44:37,370 : INFO :  Test_login : test_title_001: checking PageTitle
+2025-08-15 00:44:37,370 : INFO :  Test_login : test_title_001: test_title_001 Passed
+2025-08-15 00:44:49,788 : INFO :  Test_login : test_login002: getting urlhttps://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-08-15 00:44:49,788 : INFO :  Test_login : test_login002: entering usernameAdmin
